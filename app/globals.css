@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,sans‑serif;
+  padding:30px;
+  max‑width:600px;
+  margin:0 auto;
+}
+h1{
+  margin‑bottom:24px;
+}
+form>div{
+  margin‑bottom:16px;
+}
+label{
+  display:block;
+  margin‑bottom:6px;
+}
+input,select,textarea{
+  width:100%;
+  padding:10px;
+  font‑size:16px;
+}
+button{
+  padding:12px 24px;
+  cursor:pointer;
+}
